@@ -110,3 +110,10 @@ C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\obj\Debug\ExamenAPI.cs
 C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\obj\Debug\ExamenAPI.csproj.CopyComplete
 C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\obj\Debug\ExamenAPI.dll
 C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\obj\Debug\ExamenAPI.pdb
+C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\bin\BouncyCastle.Crypto.dll
+C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\bin\Dapper.dll
+C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\bin\Google.Protobuf.dll
+C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\bin\Renci.SshNet.dll
+C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\bin\Dapper.xml
+C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\bin\Google.Protobuf.xml
+C:\Users\Alumne\source\repos\W19_Surname1WebAPI\ExamenAPI\bin\Renci.SshNet.xml
